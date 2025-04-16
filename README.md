@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=White&height=300&section=header&text=Thanks%20for%20stopping%20by!&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=blur&color=red&height=300&section=header&text=Thanks%20for%20stopping%20by!&fontSize=60)
 <div>
         <!--Body-->
   
