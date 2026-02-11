@@ -8,7 +8,7 @@
   <br/>
   
   ## Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeayeong-Hong&show_icons=false&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeayeong-Hong&show_icons=true&theme=default&cache_seconds=1800)
   <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeayeong-Hong&layout=donut-vertical&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeayeong-Hong&layout=compact&theme=default&cache_seconds=1800)
   </div>
