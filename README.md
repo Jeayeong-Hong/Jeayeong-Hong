@@ -9,6 +9,6 @@
   
  ## Github Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeayeong-Hong&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeayeong-Hong&layout=compact)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jeayeong-Hong&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jeayeong-Hong&layout=compact)
   </div>
