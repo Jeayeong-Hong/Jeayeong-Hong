@@ -8,7 +8,8 @@
   <br/>
   
   ## Github Stats
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeayeong-Hong&show_icons=true&theme=default&cache_seconds=1800)
-  <br/>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeayeong-Hong&layout=compact&theme=default&cache_seconds=1800)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeayeong-Hong&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeayeong-Hong&layout=compact)
   </div>
