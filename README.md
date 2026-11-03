@@ -11,5 +11,11 @@ Frontend Developer who enjoys building clean and interactive user interfaces.
 <p style="color:#6b7280">
 Currently working with React, TypeScript, and modern frontend tools to create better user experiences.
 </p>
+<br>
+<h2>Skills</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,tailwind,supabase,vitest,git,sentry)](https://skillicons.dev)
+
+<br>
 
 ![](./profile-3d-contrib/profile-green.svg)
