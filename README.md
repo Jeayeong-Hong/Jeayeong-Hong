@@ -12,4 +12,4 @@ Frontend Developer who enjoys building clean and interactive user interfaces.
 Currently working with React, TypeScript, and modern frontend tools to create better user experiences.
 </p>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![body](./profile-3d-contrib/profile-night-rainbow.svg)
