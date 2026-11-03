@@ -12,8 +12,4 @@ Frontend Developer who enjoys building clean and interactive user interfaces.
 Currently working with React, TypeScript, and modern frontend tools to create better user experiences.
 </p>
 
- ## Github Stats
-
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jeayeong-Hong&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jeayeong-Hong&layout=compact)
-  </div>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
